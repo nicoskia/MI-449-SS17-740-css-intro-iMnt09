@@ -1,0 +1,58 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+body {
+  background: #f9f7f5;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+a {
+  color: purple;
+}
+
+a:hover {
+  color: orange;
+}
+
+header {
+  background: #fff;
+  margin: 20px 0 20px 0;
+  padding: 10px 0 10px 0;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.city-description {
+  padding-left: 20px;
+  font-size: 15px;
+}
+
+h2 {
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #d19a61;
+}
+
+img {
+  padding: 5px 10px 5px 0;
+  width: 50px;
+  height: 50px;
+}
+
+section {
+  background: #fff;
+  margin: 20px 0 25px 0;
+  padding: 15px 30px 20px 30px;
+}
+
+.chicago {
+  margin-top: 15px;
+}
